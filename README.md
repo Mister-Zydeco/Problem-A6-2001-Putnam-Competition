@@ -21,3 +21,5 @@ areas:
 
 * python/matplotlb: axis positioning, image dimensions, tick label positioning
 * LyX/LaTeX: TeX "figure wrap float" parameters, equation spacing, inline display fractions , spacing after the radical sign
+
+I'll be sticking in some specific notes about this fiddling in the near future.
