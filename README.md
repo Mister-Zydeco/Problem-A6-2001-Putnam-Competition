@@ -15,9 +15,10 @@ find it.
 
 Other solutions to this problem found by Google search are either not as
 complete or not as elegant as this one.  All mildly interesting, but the point
-for me was to use this problem as a laboratory for making simple plots of
-the sort you'd include in a math text. Fiddling was required in the following
-areas:
+for me was to use this problem as a laboratory for (1) making simple plots of
+the sort you'd include in a math text, (2) emdebdding the plot in  LaTeX 
+document, and (3) trying to make the document reasoanbly presentable. 
+To accomplish all that, fiddling was required in the following areas:
 
 * python/matplotlb: axis positioning, image dimensions, tick label positioning
 * LyX/LaTeX: TeX "figure wrap float" parameters, equation spacing, inline display fractions , spacing after the radical sign
